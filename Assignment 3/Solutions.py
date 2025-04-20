@@ -8,7 +8,7 @@ Hint: Use string slicing or a loop.
 """
 #ans
 name="programming"
-print(names[::-1])
+print(names[::-1]))
 
 
 """
