@@ -31,7 +31,7 @@ strg=input("Enter the word")
 if strg==strg[::-1]:
 print("the number is palindrome")
 else:
-print("the number is not palindrome")
+print("the number is not palindrome"))
 
 
 """
